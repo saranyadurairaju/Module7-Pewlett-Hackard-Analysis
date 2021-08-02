@@ -111,9 +111,12 @@ Also, i made sure to include the latest title in mentorship_eligibility table wi
 
 We have total of 90398 retiring employees and 1549 mentoring employees. Using the below query we can find number of mentoring employees in each title. So that it will be easy to identify the ratio and allocate the new employees under each mentoring employees. 
 
+
 ![image](https://user-images.githubusercontent.com/85472349/127817871-499198c2-c282-4b94-a400-60b264af9e07.png)
 
+
 So, if we compare each title there are almost the same ratio of employees available for mentoring.
+ 
  
 ![image](https://user-images.githubusercontent.com/85472349/127819028-3ab104bc-42a9-4fd9-a6da-687787be2caa.png)
 
@@ -122,16 +125,23 @@ So, if we compare each title there are almost the same ratio of employees availa
 
 In the above results, there are no managers available to give mentorship for the upcoming employees. Using the below query we can find the retiring managers departments:
 
+
 ![image](https://user-images.githubusercontent.com/85472349/127819690-81a68ca0-0085-4de0-a1f8-c6030009e3af.png)
+
 
 But there are many senior employees available in that departments, which we are trying to find from the deparment employees table who joined in the year "1988".
 
+
 ![image](https://user-images.githubusercontent.com/85472349/127821054-6c7f4166-d069-455a-bf6c-1a75faa117a4.png)
 
-So definitely some one can help the new upcoming manager in Sales and Research departments. 
+
+From the above research its clear that some existing senior employee can help the new upcoming manager in Sales and Research departments. 
 
 
-_Bobby and his team has done a new good Employee Analysis and helped **Pewlett-Hackard** to handle the upcoming employee shortage and give a better **Retirement package & Mentorship programs** to their Employees. Hurry!
+
+
+
+_Bobby and team has done a perfect Employee Analysis and helped **Pewlett-Hackard** to handle the upcoming employee shortage and give a better **Retirement package & Mentorship programs** to their Employees. Hurry!_
 
 
 
