@@ -68,17 +68,17 @@ Writing a Query language with the databe in the above methods will provide the n
 
 Below is the full SQL script Employee_Database_challenge.sql to determine the Employee details. 
 
-![Employee_Database_challenge]()
+![Employee_Database_challenge](https://github.com/saranyadurairaju/Module7-Final-Assignment-Analysis/blob/main/Employee_Database_challenge.sql)
 
 Also, the data files retirement_titles.csv, unique_titles.csv, retiring_titles.csv, and mentorship_eligibilty.csv are in the below data folder:
 
-![DATA_Folder]()
+![DATA_Folder](https://github.com/saranyadurairaju/Module7-Final-Assignment-Analysis/tree/main/Data)
 
 #### The Number of Retiring Employees by Title
 
 Below output table shows the number of employees retiring in each title of the Jobs in the company. 
 
-![Deliverable1_pic]()
+![Deliverable1_pic](https://github.com/saranyadurairaju/Module7-Final-Assignment-Analysis/blob/main/Deliverable1_pic.png)
 
 * The total number of Retiring Employees is 90398, which can be found using **SELECT SUM(count) FROM retiring_titles** query.
 
@@ -88,7 +88,7 @@ Below output table shows the number of employees retiring in each title of the J
 
 Below output table shows the first 10 employee details who are eligible for mentorship_programs.
 
-![Deliverable2_pic]()
+![Deliverable2_pic](https://github.com/saranyadurairaju/Module7-Final-Assignment-Analysis/blob/main/Deliverable2_pic.png)
 
 * The total number of Employees eligible for mentorship program is 1549 which can be found using **SELECT count(emp_no) from mentorship_eligibility** query.
 
